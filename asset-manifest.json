@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ramzes-org/Linkedin_clone/static/css/main.85218088.chunk.css",
+    "main.js": "/Ramzes-org/Linkedin_clone/static/js/main.ec338d3a.chunk.js",
+    "main.js.map": "/Ramzes-org/Linkedin_clone/static/js/main.ec338d3a.chunk.js.map",
+    "runtime-main.js": "/Ramzes-org/Linkedin_clone/static/js/runtime-main.1890de16.js",
+    "runtime-main.js.map": "/Ramzes-org/Linkedin_clone/static/js/runtime-main.1890de16.js.map",
+    "static/js/2.c4814747.chunk.js": "/Ramzes-org/Linkedin_clone/static/js/2.c4814747.chunk.js",
+    "static/js/2.c4814747.chunk.js.map": "/Ramzes-org/Linkedin_clone/static/js/2.c4814747.chunk.js.map",
+    "index.html": "/Ramzes-org/Linkedin_clone/index.html",
+    "static/css/main.85218088.chunk.css.map": "/Ramzes-org/Linkedin_clone/static/css/main.85218088.chunk.css.map",
+    "static/js/2.c4814747.chunk.js.LICENSE.txt": "/Ramzes-org/Linkedin_clone/static/js/2.c4814747.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1890de16.js",
+    "static/js/2.c4814747.chunk.js",
+    "static/css/main.85218088.chunk.css",
+    "static/js/main.ec338d3a.chunk.js"
+  ]
+}
